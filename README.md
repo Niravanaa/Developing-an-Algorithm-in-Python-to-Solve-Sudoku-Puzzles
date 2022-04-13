@@ -1,1 +1,11 @@
-# Comparing-Sudoku-Solving-Algorithms---Term-Project-1
+# Introduction
+
+# Description of the Model
+
+# Description of the Computational Model
+
+# Results
+
+# Discussion
+
+# References
