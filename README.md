@@ -11,6 +11,14 @@ Our project involves comparing two algorithms that can solve Sudoku puzzles of v
 # Discussion
 
 # References
+Research paper from which we have inspired ourselves:
+http://www.diva-portal.org/smash/get/diva2:811020/FULLTEXT01.pdf
+
+Original source of Sudokus:
+https://www.kaggle.com/datasets/rohanrao/sudoku
+
+Link to the 10000 sample Sudokus used:
+https://raw.githubusercontent.com/Niravanaa/Comparing-Sudoku-Solving-Algorithms---Term-Project-1/main/sudokus.csv
 
 Link to how the two algorithms were coded:
 https://colab.research.google.com/drive/1WC2SHQxiiq919e0N_bCRdKuPP_M7ApU1?usp=sharing
