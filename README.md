@@ -11,3 +11,6 @@ Our project involves comparing two algorithms that can solve Sudoku puzzles of v
 # Discussion
 
 # References
+
+Link to how the two algorithms were coded:
+https://colab.research.google.com/drive/1WC2SHQxiiq919e0N_bCRdKuPP_M7ApU1?usp=sharing
